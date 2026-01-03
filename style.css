@@ -5,6 +5,18 @@
     background-color: red;
     text-align: center;
 }
+.dip{
+   /* margin: 0; */
+   width: 100%;
+    text-align: center;
+    font-size: xx-large;
+    border: 5px solid red;
+    padding: 5px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    outline: none;
+    
+}
 img{
     width: 200px;
     height: 150px;
